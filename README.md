@@ -1,0 +1,2 @@
+# RussianHacker
+переводчик в termux
